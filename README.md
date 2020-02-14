@@ -6,10 +6,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the Project
 
-➜  serving-web-content ./mvnw spring-boot:run
-➜  rest-service ./mvnw spring-boot:run
-➜  accessing-mondodb-data-rest ./mvnw spring-boot:run
-➜  accessing-mondodb-data-rest brew services start mongodb-community@4.2
+- serving-web-content ./mvnw spring-boot:run
+- rest-service ./mvnw spring-boot:run
+- accessing-mondodb-data-rest ./mvnw spring-boot:run
+- accessing-mondodb-data-rest brew services start mongodb-community@4.2
 
 
 ## Built With
